@@ -1,4 +1,8 @@
 hello 
 hello git
 希望我能通过腾讯云智
+<<<<<<< HEAD
 加油加油
+=======
+我修改了一下
+>>>>>>> beadc98fdad0f0b1e58b27b2b41ba16df027ccbd
